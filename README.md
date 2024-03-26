@@ -17,7 +17,7 @@
 Инструкция по запуску
     1. Установите зависимости:
        Активируйте venv и выполните команду:
-    • 'pip install -r requirements.txt'
+    • pip install -r requirements.txt
 В requirements.txt должны быть указаны:
 openai>=0.10.0
 pandas>=1.4.2
