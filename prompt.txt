@@ -1,0 +1,5 @@
+Rate the following review from 1 to 10, where 10 is the most positive and 1 is the most negative.
+
+{review_text}
+
+Rating:
